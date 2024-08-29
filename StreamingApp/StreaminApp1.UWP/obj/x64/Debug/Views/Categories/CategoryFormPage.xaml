@@ -1,0 +1,60 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="StreamingApp.UWP.Views.Categories.CategoryFormPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreamingApp.UWP.Views.Categories"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#1C2230" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="NEW CATEGORY" 
+                   Style="{StaticResource HeaderTextBlockStyle}"/>
+            <CommandBar x:ConnectionId='4' x:Name="mainCommandBar" 
+                    Grid.Column="1" VerticalAlignment="Center"
+                    Background="Transparent" OverflowButtonVisibility="Collapsed" 
+                    DefaultLabelPosition="Right">
+
+                <AppBarButton x:ConnectionId='5' x:Name="btnSave_Click" 
+                          Icon="Save"
+                          Label="Save"
+                                               >
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout>
+                            <Border x:ConnectionId='7' Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                                                >
+                                <TextBlock Text="Este nome ja existe!! USA OUTRO!!!" Foreground="AliceBlue"/>
+                            </Border>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+                </AppBarButton>
+
+                <AppBarButton x:ConnectionId='6' x:Name="btnCancel_Click" 
+                          Icon="Cancel"
+                          Label="Cancel"
+                                                 />
+            </CommandBar>
+        </Grid>
+        <StackPanel Grid.Row="1">
+            <TextBox x:ConnectionId='2' x:Name="name" Header="Name" 
+                                                        
+                                     
+                                                               CornerRadius="5"/>
+            <Border x:ConnectionId='3' Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                                                            >
+                <TextBlock Text="Invalid name for category" Foreground="AliceBlue"/>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>
+

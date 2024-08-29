@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="StreaminApp1.UWP.Views.Quiz.TypeMovieQuizPage"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:local="using:StreaminApp1.UWP.Views.Quiz"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#1C2230">
+
+    <Frame x:Name="frmMain" Padding="70, 0">
+        <Grid VerticalAlignment="Center" Height="500" Width="600" Margin="0,80,0,0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid RowSpacing="100" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock HorizontalAlignment="center" Grid.Row="0" FontSize="25" SelectionChanged="TextBlock_SelectionChanged">What kind of movie would it be?</TextBlock>
+
+                <ComboBox x:Name="categoryComboBox" HorizontalAlignment="center" CornerRadius="5" Grid.Row="1" Width="200" PlaceholderText="Categories"
+
+ItemsSource="{x:Bind MovieViewModel.Categories, Mode=OneWay}"
+DisplayMemberPath="Name"
+SelectedItem="{x:Bind MovieViewModel.SelectedCategory, Mode=TwoWay}" SelectionChanged="categoryComboBox_SelectionChanged" />
+
+
+                <!-- Button to navigate to the next page -->
+                <Button HorizontalAlignment="Center" Grid.Row="2" Content="Continue" CornerRadius="3" Background="#6EB2D1" Click="ContinueButton_Click"  />
+
+
+            </Grid>
+
+
+        </Grid>
+    </Frame>
+</Page>
+
+

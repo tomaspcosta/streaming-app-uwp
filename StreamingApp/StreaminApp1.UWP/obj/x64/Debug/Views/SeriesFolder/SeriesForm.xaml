@@ -1,0 +1,77 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="StreamingApp.UWP.Views.Series.SeriesFormPage"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:local="using:StreamingApp.UWP.Views.Series"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="#1C2230" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="New Series" Style="{StaticResource HeaderTextBlockStyle}"/>
+            <CommandBar x:ConnectionId='16' x:Name="mainCommandBar" Grid.Column="1" VerticalAlignment="Center"
+                        Background="Transparent" OverflowButtonVisibility="Collapsed" 
+                        DefaultLabelPosition="Right">
+                <AppBarButton x:ConnectionId='17' x:Name="btnSave_Click" Icon="Save" Label="Save"                      >
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout>
+                            <Border x:ConnectionId='19' Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                                                                              >
+                                <TextBlock Text="Este nome ja existe!! USA OUTRO!!!" Foreground="AliceBlue"/>
+                            </Border>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+                </AppBarButton>
+                <AppBarButton x:ConnectionId='18' x:Name="btnCancel_Click" Icon="Cancel" Label="Cancel"                        />
+            </CommandBar>
+        </Grid>
+        <StackPanel Grid.Row="1">
+            <TextBox x:ConnectionId='2' x:Name="name" Header="Name" 
+                                                                                                                  CornerRadius="5"/>
+            <ComboBox x:ConnectionId='3' x:Name="categoryComboBox" Header="Category"                                                                DisplayMemberPath="Name"                                                                        CornerRadius="5"/>
+            <!-- Cast -->
+            <TextBox x:ConnectionId='4' x:Name="cast" Header="Cast" 
+                                                                                                              CornerRadius="5"/>
+            <!-- Rating -->
+            <TextBox x:ConnectionId='5' x:Name="rating" Header="Rating"                                                                                                CornerRadius="5"/>
+            <!-- Country -->
+            <TextBox x:ConnectionId='6' x:Name="country" Header="Country" 
+                                                                                                                 CornerRadius="5"/>
+            <!-- Description -->
+            <TextBox x:ConnectionId='7' x:Name="description" Header="Description" 
+                                                                                                                     CornerRadius="5"/>
+            <!-- Duration -->
+            <TextBox x:ConnectionId='8' x:Name="duration" Header="Duration" 
+                                                                                                                  CornerRadius="5"/>
+            <!-- Released -->
+            <DatePicker x:ConnectionId='9' x:Name="releasedDatePicker" Header="Released"
+                                                                               />
+            <Button x:ConnectionId='10' Content="Add or Edit Season"                         CornerRadius="5" Margin="0,10,0,0"/>
+            <ListView x:ConnectionId='11' x:Name="seasonsListView"                                               >
+                <!-- Define your season item template here -->
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!-- Define how each season should be displayed in the list -->
+                        <TextBlock Text="{Binding Description}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <AppBarButton x:ConnectionId='12' Icon="OpenFile" Label="Choose Image"                                                       CornerRadius="5" Margin="10" Background="#303849" BorderBrush="#909097" BorderThickness="1" />
+            <Image x:ConnectionId='13' x:Name="posterImage"                                                     Width="200" Height="300" />
+            <Border x:ConnectionId='14' Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                                                              >
+                <TextBlock Text="Invalid name for category" Foreground="AliceBlue"/>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>
+

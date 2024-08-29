@@ -1,0 +1,130 @@
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\MovieListApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\MovieListApp - Copy\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\StreamingApp_v1.3\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\StreamingApp_v1.4\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\Pedro Mateus\Desktop\StreamingApp_v1.5\StreamingApp_v1.5\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp_v1.6\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA git\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA parte 3 git\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.deps.json
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\bin\Debug\netstandard2.0\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.AssemblyInfo.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreamingApp.Domain\obj\Debug\netstandard2.0\StreamingApp.Domain.pdb

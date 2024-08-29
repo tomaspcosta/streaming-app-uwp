@@ -1,0 +1,66 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="StreamingApp.UWP.Views.SeriesFolder.EpisodeFormPage"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:local="using:StreamingApp.UWP.Views.SeriesFolder"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="#1C2230" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="New Episode"
+                       Style="{StaticResource HeaderTextBlockStyle}" />
+            <!-- CommandBar for episode actions -->
+            <CommandBar x:ConnectionId='7' x:Name="mainCommandBar"
+                        Grid.Column="1" VerticalAlignment="Center"
+                        Background="Transparent" OverflowButtonVisibility="Collapsed"
+                        DefaultLabelPosition="Right">
+                <!-- AppBarButton for saving episode -->
+                <AppBarButton x:ConnectionId='8' x:Name="btnSave_Click"
+                              Icon="Save"
+                              Label="Save"
+                                                   >
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout>
+                            <Border x:ConnectionId='10' Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                                                                               >
+                                <TextBlock Text="This name already exists! Please choose another." Foreground="AliceBlue" />
+                            </Border>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+                </AppBarButton>
+                <!-- AppBarButton for canceling -->
+                <AppBarButton x:ConnectionId='9' x:Name="btnCancel_Click"
+                              Icon="Cancel"
+                              Label="Cancel"
+                                                      />
+            </CommandBar>
+        </Grid>
+        <!-- StackPanel for episode details -->
+        <StackPanel Grid.Row="1">
+            <TextBox x:ConnectionId='2' x:Name="episodeName" Header="Episode Name"
+                                                                                                             CornerRadius="5" />
+            <TextBox x:ConnectionId='3' x:Name="episodeNumber" Header="Episode Number"
+                                                                                                          CornerRadius="5" />
+            <TextBox x:ConnectionId='4' x:Name="episodeRating" Header="Episode Rating"
+                                                                                                               CornerRadius="5" />
+            <TextBox x:ConnectionId='5' x:Name="episodeDescription" Header="Episode Description" CornerRadius="5"
+                                                                                                                    />
+            <!-- Other episode-related input fields go here -->
+            <Border x:ConnectionId='6' Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                                                               >
+                <TextBlock Text="Invalid name for episode" Foreground="AliceBlue" />
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>
+

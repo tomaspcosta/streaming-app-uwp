@@ -1,0 +1,59 @@
+﻿<Page
+    x:Class="StreamingApp.UWP.Views.Categories.CategoryFormPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreamingApp.UWP.Views.Categories"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#1C2230" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="NEW CATEGORY" 
+                   Style="{StaticResource HeaderTextBlockStyle}"/>
+            <CommandBar x:Name="mainCommandBar" 
+                    Grid.Column="1" VerticalAlignment="Center"
+                    Background="Transparent" OverflowButtonVisibility="Collapsed" 
+                    DefaultLabelPosition="Right">
+
+                <AppBarButton x:Name="btnSave_Click" 
+                          Icon="Save"
+                          Label="Save"
+                          Click="BtnSave_Click">
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout>
+                            <Border Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+    Visibility="{x:Bind CategoryViewModel.Invalid, Mode=OneWay}">
+                                <TextBlock Text="Este nome ja existe!! USA OUTRO!!!" Foreground="AliceBlue"/>
+                            </Border>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+                </AppBarButton>
+
+                <AppBarButton x:Name="btnCancel_Click" 
+                          Icon="Cancel"
+                          Label="Cancel"
+                          Click="BtnCancel_Click"/>
+            </CommandBar>
+        </Grid>
+        <StackPanel Grid.Row="1">
+            <TextBox x:Name="name" Header="Name" 
+           Text="{x:Bind CategoryViewModel.CategoryName,
+                         Mode=TwoWay,
+                         UpdateSourceTrigger=PropertyChanged}" CornerRadius="5"/>
+            <Border Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                Visibility="{x:Bind CategoryViewModel.Invalid, Mode=OneWay}">
+                <TextBlock Text="Invalid name for category" Foreground="AliceBlue"/>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>

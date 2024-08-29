@@ -1,0 +1,76 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="StreaminApp1.UWP.Views.Favorites.FavouritesPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreaminApp1.UWP.Views.Favorites"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:domain="using:StreamingApp.Domain.Models" 
+    xmlns:converters="using:StreamingApp.UWP.Converters" 
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="400">
+
+
+    <Page.Resources>
+        <converters:ByteToImageConverter x:Key="ByteToImageConverter" />
+    </Page.Resources>
+
+
+    <ScrollViewer>
+        <Grid Padding="30" Background="#1C2230">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock x:ConnectionId='2' VerticalAlignment="Center" Grid.Row="0" FontSize="25" FontWeight="Bold" Margin="0,40,0,0"                                              >FAVORITES</TextBlock>
+            <Line Grid.Row="1" X1="0" X2="2000" Stroke="White" StrokeThickness="3" Margin="0,5,0,0" />
+
+
+            <TextBlock x:ConnectionId='3' VerticalAlignment="Center" Grid.Row="2" FontSize="14" FontWeight="SemiBold" Margin="0,40,0,0"                                              >Favourite Movies</TextBlock>
+            <GridView x:ConnectionId='4' x:Name="mainListView" Grid.Row="3"                                                       Margin="0,30,0,0" RenderTransformOrigin="0.5,0.439">
+                <GridView.ItemContainerStyle>
+                    <Style TargetType="GridViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    </Style>
+                </GridView.ItemContainerStyle>
+                <GridView.ItemTemplate >
+                    <DataTemplate                          >
+                        <Grid x:ConnectionId='11' x:Name="gridCategories"                                CornerRadius="5">
+                            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <Image x:ConnectionId='12' x:Name="posterImage" Stretch = 'UniformToFill'                                                                          Width="155" Height="180"/>
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+            </GridView>
+
+
+            <TextBlock x:ConnectionId='5' VerticalAlignment="Center" Grid.Row="4" FontSize="14" FontWeight="SemiBold" Margin="0,40,0,0"                                              >Favourite Series</TextBlock>
+            <GridView x:ConnectionId='6' x:Name="mainListView2" Grid.Row="5"                                                        Margin="0,30,0,0" RenderTransformOrigin="0.5,0.439">
+                <GridView.ItemContainerStyle>
+                    <Style TargetType="GridViewItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                        <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    </Style>
+                </GridView.ItemContainerStyle>
+                <GridView.ItemTemplate >
+                    <DataTemplate                                >
+                        <Grid x:ConnectionId='8' x:Name="gridCategories"                                 CornerRadius="5">
+                            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+                                <Image x:ConnectionId='9' x:Name="posterImage" Stretch = 'UniformToFill'                                                                          Width="155" Height="180"/>
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+            </GridView>
+        </Grid>
+    </ScrollViewer>
+</Page>
+

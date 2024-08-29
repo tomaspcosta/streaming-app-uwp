@@ -1,0 +1,70 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="StreamingApp.UWP.Views.Categories.ManageCategoriesPage"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:local="using:StreamingApp.UWP.Views.Categories"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+	xmlns:models="using:StreamingApp.Domain.Models"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="#1C2230" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="MANAGE CATEGORIES" Style="{StaticResource HeaderTextBlockStyle}" TextDecorations="Underline" FontWeight="Bold"/>
+            <CommandBar x:ConnectionId='8' x:Name="mainCommandBar" 
+                     Grid.Column="1" 
+                     VerticalAlignment="Center" 
+                     Background="Transparent" 
+                     OverflowButtonVisibility="Collapsed" 
+                     DefaultLabelPosition="Right">
+                <AppBarButton x:ConnectionId='9' x:Name="btnAdd" 
+                           Icon="Add" 
+                           Label="New" 
+                           ToolTipService.ToolTip="New Category"
+                                               />
+            </CommandBar>
+        </Grid>
+        <ListView x:ConnectionId='2' x:Name="mainListView" Grid.Row="1"                                                      Margin="0,30,0,0">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.ItemTemplate>
+                <DataTemplate                             >
+                    <Grid x:ConnectionId='4' x:Name="gridCategories"                               >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock x:ConnectionId='5'                      Style="{StaticResource TitleTextBlockStyle}"/>
+                        <Button x:ConnectionId='6' x:Name="EditButton" Grid.Column="1"                          Margin="5,0" CornerRadius="1">
+                            <StackPanel Orientation="Horizontal">
+                                <SymbolIcon Symbol="Edit"/>
+                                <TextBlock Text="Edit"/>
+                            </StackPanel>
+                        </Button>
+                        <Button x:ConnectionId='7' x:Name="DeleteButton" Grid.Column="2"                            Margin="5,0" CornerRadius="1">
+                            <StackPanel Orientation="Horizontal">
+                                <SymbolIcon Symbol="Delete"/>
+                                <TextBlock Text="Delete"
+                                        />
+                            </StackPanel>
+                        </Button>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>
+

@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="StreaminApp1.UWP.Views.Quiz.IntroductionQuizPage"
+   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:local="using:StreaminApp1.UWP.Views.Quiz"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#1C2230">
+
+    <Frame x:Name="frmMain" Padding="70, 0">
+        <Grid VerticalAlignment="Center" Height="500" Width="400" Margin="0,80,0,0" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid RowSpacing="100" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock HorizontalAlignment="center" Grid.Row="0" FontSize="30">WELCOME</TextBlock>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="center" Grid.Row="1" Margin="0,0,0,20" TextWrapping="Wrap" TextAlignment="center">We'll help you choose what you want to see.
+                                   Through brief questions we will select
+                                           the best movies or series
+                                              you want to watch.</TextBlock>
+
+                <!-- Button to navigate to the next page -->
+                <Button HorizontalAlignment="Center" Grid.Row="2" Content="Continue" CornerRadius="3" Background="#6EB2D1" Click="ContinueButton_Click" />
+
+
+
+
+            </Grid>
+
+
+        </Grid>
+    </Frame>
+</Page>
+
+

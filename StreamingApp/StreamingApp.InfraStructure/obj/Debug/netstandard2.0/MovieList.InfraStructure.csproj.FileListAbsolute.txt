@@ -1,0 +1,13 @@
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\bin\Debug\netstandard2.0\MovieList.InfraStructure.deps.json
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\bin\Debug\netstandard2.0\MovieList.InfraStructure.dll
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\bin\Debug\netstandard2.0\MovieList.InfraStructure.pdb
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\bin\Debug\netstandard2.0\MovieList.Domain.dll
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\bin\Debug\netstandard2.0\MovieList.Domain.pdb
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.AssemblyInfoInputs.cache
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.AssemblyInfo.cs
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.csproj.CopyComplete
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.dll
+C:\Users\pops\Desktop\MovieListApp\ShoppingListInfraStructure\obj\Debug\netstandard2.0\MovieList.InfraStructure.pdb

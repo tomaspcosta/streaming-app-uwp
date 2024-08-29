@@ -1,0 +1,65 @@
+﻿<Page
+    x:Class="StreamingApp.UWP.Views.SeriesFolder.EpisodeFormPage"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:local="using:StreamingApp.UWP.Views.SeriesFolder"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid Background="#1C2230" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="New Episode"
+                       Style="{StaticResource HeaderTextBlockStyle}" />
+            <!-- CommandBar for episode actions -->
+            <CommandBar x:Name="mainCommandBar"
+                        Grid.Column="1" VerticalAlignment="Center"
+                        Background="Transparent" OverflowButtonVisibility="Collapsed"
+                        DefaultLabelPosition="Right">
+                <!-- AppBarButton for saving episode -->
+                <AppBarButton x:Name="btnSave_Click"
+                              Icon="Save"
+                              Label="Save"
+                              Click="BtnSave_Click">
+                    <FlyoutBase.AttachedFlyout>
+                        <Flyout>
+                            <Border Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                                    Visibility="{x:Bind EpisodeViewModel.Invalid, Mode=OneWay}">
+                                <TextBlock Text="This name already exists! Please choose another." Foreground="AliceBlue" />
+                            </Border>
+                        </Flyout>
+                    </FlyoutBase.AttachedFlyout>
+                </AppBarButton>
+                <!-- AppBarButton for canceling -->
+                <AppBarButton x:Name="btnCancel_Click"
+                              Icon="Cancel"
+                              Label="Cancel"
+                              Click="BtnCancel_Click" />
+            </CommandBar>
+        </Grid>
+        <!-- StackPanel for episode details -->
+        <StackPanel Grid.Row="1">
+            <TextBox x:Name="episodeName" Header="Episode Name"
+                     Text="{x:Bind EpisodeViewModel.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" CornerRadius="5" />
+            <TextBox x:Name="episodeNumber" Header="Episode Number"
+         Text="{x:Bind EpisodeViewModel.EpisodeNumber, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" CornerRadius="5" />
+            <TextBox x:Name="episodeRating" Header="Episode Rating"
+                     Text="{x:Bind EpisodeViewModel.Rating, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" CornerRadius="5" />
+            <TextBox x:Name="episodeDescription" Header="Episode Description" CornerRadius="5"
+                     Text="{x:Bind EpisodeViewModel.Description, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+            <!-- Other episode-related input fields go here -->
+            <Border Background="Red" BorderBrush="Black" BorderThickness="1" Margin="0,5" Padding="5"
+                    Visibility="{x:Bind EpisodeViewModel.Invalid, Mode=OneWay}">
+                <TextBlock Text="Invalid name for episode" Foreground="AliceBlue" />
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>

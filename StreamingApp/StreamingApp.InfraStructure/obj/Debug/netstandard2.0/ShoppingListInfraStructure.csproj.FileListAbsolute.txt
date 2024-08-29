@@ -1,0 +1,13 @@
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.csproj.AssemblyReference.cache
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.AssemblyInfoInputs.cache
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.AssemblyInfo.cs
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\bin\Debug\netstandard2.0\ShoppingListInfraStructure.deps.json
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\bin\Debug\netstandard2.0\ShoppingListInfraStructure.dll
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\bin\Debug\netstandard2.0\ShoppingListInfraStructure.pdb
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\bin\Debug\netstandard2.0\ShoppingList.Domain.dll
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\bin\Debug\netstandard2.0\ShoppingList.Domain.pdb
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.csproj.CopyComplete
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.dll
+C:\Users\pops\source\repos\ShoppingList.Domain\ShoppingListInfraStructure\obj\Debug\netstandard2.0\ShoppingListInfraStructure.pdb

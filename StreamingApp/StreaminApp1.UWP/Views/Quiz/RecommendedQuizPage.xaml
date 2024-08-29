@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="StreaminApp1.UWP.Views.Quiz.RecommendedQuizPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:StreaminApp1.UWP.Views.Quiz"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:viewmodels="using:StreamingApp.UWP.ViewModels"
+    xmlns:converters="using:StreamingApp.UWP.Converters"
+    d:DataContext="{d:DesignInstance Type=viewmodels:MovieViewModel}"
+    mc:Ignorable="d"
+    Background="#1C2230">
+
+
+    <Page.Resources>
+        <converters:ByteToImageConverter x:Key="ByteToImageConverter" />
+    </Page.Resources>
+
+
+
+    <Frame x:Name="frmMain" Padding="70, 0">
+        <Grid Margin="0,80,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.Row="0" FontSize="25">RECOMMENDED</TextBlock>
+
+            <!-- Line under TextBlock -->
+            <Line Grid.Row="1" X1="0" X2="2000" Stroke="White" StrokeThickness="3" />
+
+            <!-- GridView for clickable images -->
+            <GridView Grid.Row="2" Name="RecommendedGridView" Margin="0,10" ItemsSource="{Binding FilteredMovies}">
+                <GridView.ItemTemplate>
+                    <DataTemplate x:DataType="viewmodels:MovieViewModel">
+                        <Grid Tapped="gridCategories_Tapped" CornerRadius="5">
+                            <!-- Use data binding to display movie image -->
+                            <Image Source="{Binding Thumb, Converter={StaticResource ByteToImageConverter}}" Stretch="UniformToFill" Width="155" Height="180"/>
+                            <!-- Add any other elements you want for each item, if needed -->
+                        </Grid>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+
+                <GridView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <ItemsWrapGrid MaximumRowsOrColumns="6" Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </GridView.ItemsPanel>
+
+                <!-- Add any other GridView properties or events you may need -->
+            </GridView>
+        </Grid>
+    </Frame>
+</Page>

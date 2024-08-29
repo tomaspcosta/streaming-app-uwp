@@ -1,0 +1,1209 @@
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\App.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageAdmin.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageUser.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserArea.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.xr.xml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\resources.pri
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\StreaminApp1.UWP.exe
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.UWP.build.appxrecipe
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\CommonServiceLocator.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Json.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.dll
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.AssemblyReference.cache
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.i.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xaml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CoreCompileInputs.cache
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CopyComplete
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.Microsoft.Bcl.HashCode.SR.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Diagnostics.DiagnosticSource.SR.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\pops\Desktop\DA git parte 3\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424815200000000.json
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\App.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageUser.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserArea.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.xr.xml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\resources.pri
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\StreaminApp1.UWP.exe
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.UWP.build.appxrecipe
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\CommonServiceLocator.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Json.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.dll
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.AssemblyReference.cache
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CopyComplete
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.Microsoft.Bcl.HashCode.SR.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Diagnostics.DiagnosticSource.SR.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424815200000000.json
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\App.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageUser.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserArea.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.xr.xml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\resources.pri
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.UWP.build.appxrecipe
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\CommonServiceLocator.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Json.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.dll
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CopyComplete
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.Microsoft.Bcl.HashCode.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Diagnostics.DiagnosticSource.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\tomas\Desktop\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPageAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xbf
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.g.i.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.g.cs
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xaml
+C:\Users\Pedro Mateus\Source\Repos\ad-project-group-11\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\App.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageUser.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserArea.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.xr.xml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\resources.pri
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.UWP.build.appxrecipe
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\CommonServiceLocator.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Json.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.dll
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.i.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xaml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CopyComplete
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.Microsoft.Bcl.HashCode.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Diagnostics.DiagnosticSource.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\tomas\Desktop\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424815200000000.json
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\App.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\MainPageUser.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserArea.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.xr.xml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\resources.pri
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\AppxManifest.xml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Core\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.UWP.build.appxrecipe
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\CommonServiceLocator.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\e_sqlite3.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Collections.Immutable.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\System.Text.Json.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.dll
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.Domain.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\bin\x64\Debug\StreamingApp.InfraStructure.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.AssemblyReference.cache
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.i.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xaml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\App.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MainPageUser.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\CategoryFormPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Categories\ManageCategoriesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Favourites\FavouritesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Home\HomePage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationMovieQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\DurationSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\FormatQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\IntroductionQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\RecommendedSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeMovieQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Quiz\TypeSeriesQuizPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\EpisodeFormPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeasonFormPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesInfoPageAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\AddUserAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\EditUserAdmin.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\LoginPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieForm.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MovieManage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\Movies\MoviesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\RegisterPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\ManageSeries.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesForm.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\SeriesFolder\SeriesPage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserArea.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Views\User\UserManagePage.xbf
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreamingApp.UWP.csproj.CopyComplete
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.exe
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\StreaminApp1.UWP.pdb
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.Microsoft.Bcl.HashCode.SR.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Data.Sqlite\en-US\Microsoft.Data.Sqlite.Properties.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore\en-US\Microsoft.EntityFrameworkCore.Properties.CoreStrings.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Abstractions\en-US\Microsoft.EntityFrameworkCore.Properties.AbstractionsStrings.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Relational\en-US\Microsoft.EntityFrameworkCore.Properties.RelationalStrings.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.EntityFrameworkCore.Sqlite\en-US\Microsoft.EntityFrameworkCore.Sqlite.Properties.SqliteStrings.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration\en-US\Microsoft.Extensions.Configuration.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Configuration.Binder\en-US\Microsoft.Extensions.Configuration.Binder.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection\en-US\Microsoft.Extensions.DependencyInjection.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions\en-US\Microsoft.Extensions.DependencyInjection.Abstractions.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Logging.Abstractions\en-US\Microsoft.Extensions.Logging.Abstractions.Resource.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Options\en-US\Microsoft.Extensions.Options.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\Microsoft.Extensions.Primitives\en-US\Microsoft.Extensions.Primitives.Resources.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Diagnostics.DiagnosticSource.SR.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\FxResources.System.Text.Json.SR.resw
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\tomas\Desktop\DA\Projeto\3ºParte\ad-project-group-11-main\StreamingApp\StreaminApp1.UWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424815200000000.json
