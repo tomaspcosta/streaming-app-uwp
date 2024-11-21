@@ -8,7 +8,7 @@ StreamingApp is a UWP application that allows users to watch movies and series. 
 
  - In order to visualize the movies/series in the MoviesPage/SeriesPage/HomePage the admin must add images to the respective movies/series.
  - To do that you must follow the following steps: login as an admin -> ManageMovies/ManageSeries -> Edit a movie/serie -> Click "Choose Image"
- - We have saved some images for the movies/series, that are located in this path: C:...\ad-project-group-11\StreamingApp\StreaminApp1.UWP\Assets\MovieThumb 
+ - Theres already some images for the movies/series, that are located in this path: C:...\ad-project-group-11\StreamingApp\StreaminApp1.UWP\Assets\MovieThumb 
 
 ## - Default Admin Credentials
 
