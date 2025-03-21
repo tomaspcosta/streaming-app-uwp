@@ -1,16 +1,16 @@
 StreamingApp Project
 
-## - Introduction
+## Introduction
 
 StreamingApp is a UWP application that allows users to watch movies and series. This README provides essential information about the application and its features.
 
-## - IMPORTANT
+## IMPORTANT
 
  - In order to visualize the movies/series in the MoviesPage/SeriesPage/HomePage the admin must add images to the respective movies/series.
  - To do that you must follow the following steps: login as an admin -> ManageMovies/ManageSeries -> Edit a movie/serie -> Click "Choose Image"
  - Theres already some images for the movies/series, that are located in this path: C:...\ad-project-group-11\StreamingApp\StreaminApp1.UWP\Assets\MovieThumb 
 
-## - Default Admin Credentials
+## Default Admin Credentials
 
 Upon the first run, the data base its created, and the application will automatically populate de data base with some movies, series, categories and it will also create one admin account:
 
@@ -18,7 +18,7 @@ Upon the first run, the data base its created, and the application will automati
         Username: admin
         Password: admin
 
-## - Features
+## Features
 
 - **Manage Movies, Series and Categories [ADMIN]:**
   - Add/edit/remove movies.
