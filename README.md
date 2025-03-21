@@ -1,24 +1,19 @@
-#   StreamingApp Project
+StreamingApp Project
 
 ##   Table of Contents
 
-1.  [Project Title](#project-title)
-2.  [Project Description](#project-description)
-3.  [Features](#features)
-4.  [Important Notes](#important-notes)
-5.  [Default Admin Credentials](#default-admin-credentials)
+1.  [Project Description](#project-description)
+2.  [Features](#features)
+3.  [Important Notes](#important-notes)
+4.  [Default Admin Credentials](#default-admin-credentials)
 
-##   1. Project Title
-
-StreamingApp
-
-##   2. Project Description
+##   Project Description
 
 StreamingApp is a UWP application that allows users to watch movies and series. This project was developed as part of an academic exercise to build a functional media streaming application. It demonstrates the implementation of user authentication, content management, and media browsing features.
 
 This application aims to provide a platform where users can stream movies and series, while administrators have tools to manage the content and user base.
 
-##   3. Features
+##   Features
 
 This application includes the following features:
 
@@ -51,13 +46,13 @@ This application includes the following features:
 * **See all movies/series available:**
     * Users can browse all available movies/series and filter them by category.
 
-##   4. Important Notes
+##   Important Notes
 
 * To visualize the movies/series in the MoviesPage/SeriesPage/HomePage, the admin must add images to the respective movies/series.
 * To add images, follow these steps: log in as an admin -> ManageMovies/ManageSeries -> Edit a movie/serie -> Click "Choose Image."
 * Some default images for movies/series are located in this path: `C:\...\ad-project-group-11\StreamingApp\StreaminApp1.UWP\Assets\MovieThumb`
 
-##   5. Default Admin Credentials
+##   Default Admin Credentials
 
 Upon the first run, the database is created, and the application will automatically populate it with some movies, series, categories, and one admin account.
 
