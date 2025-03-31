@@ -63,7 +63,7 @@ This application includes the following features:
 ##   5. Default Admin Credentials
 
 Upon the first run, the database is created, and the application will automatically populate it with some movies, series, categories, and one admin account.
+Admin Credentials:
 
-    Admin Credentials
     Username: admin
     Password: admin
